@@ -9,5 +9,5 @@ See [How to configure and deploy to Azure][installation] (by [Jason Poon][jason]
 [azure]: http://azure.microsoft.com
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
-[installation]: http://jasonpoon.ca/2015/06/12/deploying-hubot-on-azure/
+[installation]: http://www.jasonpoon.ca/tag/hubot/
 [jason]: http://jasonpoon.ca
